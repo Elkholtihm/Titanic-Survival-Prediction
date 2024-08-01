@@ -18,5 +18,13 @@ For any issues or contributions, please open an issue or submit a pull request o
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-kholti-075288209/)
 
-
-
+## Acknowledgments
+[![Kaggle Documentation](https://img.shields.io/badge/Kaggle-Documentation-F4C20D?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/docs)
+[![Plotly Documentation](https://img.shields.io/badge/Plotly-Documentation-3C99C7?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![Seaborn Documentation](https://img.shields.io/badge/Seaborn-Documentation-6D9BC3?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib Documentation](https://img.shields.io/badge/Matplotlib-Documentation-003C71?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/contents.html)
+[![NumPy Documentation](https://img.shields.io/badge/NumPy-Documentation-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
+[![Streamlit Documentation](https://img.shields.io/badge/Streamlit-Documentation-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
+[![Pandas Documentation](https://img.shields.io/badge/Pandas-Documentation-150C5A?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![Scikit-learn Documentation](https://img.shields.io/badge/Scikit--learn-Documentation-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![TensorFlow Documentation](https://img.shields.io/badge/TensorFlow-Documentation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/docs)
